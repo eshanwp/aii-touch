@@ -151,7 +151,7 @@ export const Button: React.FC<ButtonProps> = ({
                     ...(btnType === 'tertiary' && fsUnderline),
                     ...textStyle,
                 }}>
-                {text} 1
+                {text} v0.0.1
             </Text>
 
             {suffixIcon && (
