@@ -1,0 +1,5 @@
+.github/CODEOWNERS
+android/
+ios/
+vendor/
+node_modules/
