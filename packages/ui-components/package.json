@@ -1,7 +1,7 @@
 {
     "name": "@eshanwp/fem-ui-components",
     "packageManager": "yarn@4.5.0",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "main": "index.ts",
     "publishConfig": {
         "@eshanwp:registry": "https://npm.pkg.github.com/eshanwp"

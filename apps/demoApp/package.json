@@ -1,6 +1,6 @@
 {
     "name": "demoApp",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": true,
     "scripts": {
         "android": "react-native run-android",
@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "@eshanwp/fem-style-sheets": "^0.0.1",
-        "@eshanwp/fem-ui-components": "^0.1.0",
+        "@eshanwp/fem-ui-components": "^0.2.0",
         "@react-navigation/native": "^6.1.18",
         "@react-navigation/stack": "^6.4.1",
         "react": "18.3.1",
